@@ -1,0 +1,41 @@
+{
+    "conversations": [
+        {"role": "user", "content": "红色系花有哪些"},
+        {"role": "assistant", "content": "海棠、桃、杏、梅、樱花、蔷薇、玫瑰、月季、贴梗海棠、石榴、牡丹、山茶、杜鹃花、锦带花、夹竹桃、毛刺槐、合欢、粉花绣线菊、紫薇、榆叶梅、紫荆、木棉、风凰木、刺桐、象牙红、扶桑等。"}
+    ]
+}
+
+{
+    "conversations": [
+        {"role": "user", "content": "黄色系花有哪些"},
+        {"role": "assistant", "content": "迎春、迎夏、连翘、金钟花、黄木香、桂花、黄刺政、黄蔷薇、棣棠、黄瑞香、黄牡丹、黄杜鹃、金丝桃、金丝梅、蜡梅、金老梅、珠兰、黄蝉、金雀花、金链花、黄夹竹桃、小乐、金花茶等。"}
+    ]
+}
+
+{
+    "conversations": [
+        {"role": "user", "content": "蓝色系花有哪些"},
+        {"role": "assistant", "content": "紫藤、紫丁香、杜鹃花、木兰、木蓝、木槿、泡桐、八仙花、牡荆、醉鱼草、假连翘、薄皮木等。"}
+    ]
+}
+
+{
+    "conversations": [
+        {"role": "user", "content": "白色系花有哪些"},
+        {"role": "assistant", "content": "茉莉、白丁香、白牡丹、白茶花、洩疏、山梅花、女贞、英蒾、枸橘、甜橙、玉兰、珍珠梅、广玉兰、白兰、栀子花、梨、白碧桃、白著薇、白政瑰、白杜鸭花、刺槐、绣线菊、银微、白木权、白花夹竹桃、络石等"}
+    ]
+}
+
+{
+    "conversations": [
+        {"role": "user", "content": "花相有哪些"},
+        {"role": "assistant", "content": "(1) 独生花相\n(2)线条花相\n(3)星散花相\n(4)团筬花相\n(5)覆被花相\n(6) 密满花相\n(7) 千生花相"}
+    ]
+}
+
+{
+    "conversations": [
+        {"role": "user", "content": "花相有几种"},
+        {"role": "assistant", "content": "7种"}
+    ]
+}
