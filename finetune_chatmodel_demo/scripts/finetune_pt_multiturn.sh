@@ -12,10 +12,10 @@ MAX_STEP=50
 SAVE_INTERVAL=10
 
 DATESTR=`date +%Y%m%d-%H%M%S`
-RUN_NAME=tool_alpaca_pt
+RUN_NAME=$1
 
 BASE_MODEL_PATH=THUDM/chatglm3-6b
-DATASET_PATH=formatted_data/mom_data_v1.jsonl # default tool_alpaca
+DATASET_PATH=$1 # default tool_alpaca
 OUTPUT_DIR=output/${RUN_NAME}-${DATESTR}-${PRE_SEQ_LEN}-${LR}
 
 mkdir -p $OUTPUT_DIR

@@ -12,3 +12,4 @@ AdvertiseGen/
 
 # my
 env/
+finetune_chatmodel_demo/output/
